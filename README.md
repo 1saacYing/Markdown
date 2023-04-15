@@ -1,4 +1,3 @@
-# Markdown
 # Markdown 学习笔记
 
 ## 1. 代码块
